@@ -6,6 +6,13 @@
       "top": 110, 
       "bottom": 196, 
       "assetType": "hak-kunststof"
+    },
+    {
+      "left": 198, 
+      "right": 250, 
+      "top": 50, 
+      "bottom": 99, 
+      "assetType": "meter"
     }
   ],
   "profile": {
